@@ -5,6 +5,8 @@
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
+//
+//Joo lisäsin kommenttia
 
 #include <iostream>
 using namespace std;
